@@ -1,0 +1,1 @@
+<img class="game-button" src="./images/subway.jpg" onclick="openPage('./games/subway/index.html')">
